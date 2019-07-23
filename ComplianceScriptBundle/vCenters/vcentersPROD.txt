@@ -1,0 +1,8 @@
+EPNASCVC001.corp.centura.org
+EPNINVVC001.corp.centura.org
+EPPASCVC001.corp.centura.org
+EPPINVVC001.corp.centura.org
+G2PASCVC001.corp.centura.org
+G2PINVVC001.corp.centura.org
+B1PINVVC001.Corp.centura.org
+B1PASCVC001.Corp.centura.org
